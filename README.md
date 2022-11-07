@@ -2,8 +2,7 @@
 A cricket game application built using the C++ programming language
 
 Project features:
-
-1.There are two teams team A and team B  
+1. There are two teams team A and team B  
 a. Each team has 4 players which are selected by the user from the given pool of 11 players  
 b. The sequence in which the players are selected for each team decide the batting and bowling sequence for that team.
 
