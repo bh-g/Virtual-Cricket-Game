@@ -1,8 +1,12 @@
 # Virtual-Cricket-Game
 A cricket game application built using the C++ programming language
+
 Project features:
+
 1.There are two teams team A and team B
+
 a. Each team has 4 players which are selected by the user from the given pool of 11 players
+
 b. The sequence in which the players are selected for each team decide the batting and bowling sequence for that team.
 2. There are innings of 6 balls each:
 a. In each innings, only one bowler from the bowling team bowls all the 6 deliveries and at a time one batsman from the batting team bats until he is declared out.
